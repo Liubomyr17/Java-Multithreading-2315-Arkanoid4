@@ -1,0 +1,17 @@
+2413 Arkanoid 4
+Also, the Arkanoid class will need to store a link to the ball (Ball), Stand, and a list of bricks.
+It is necessary:
+a) create two private fields in the Arkanoid class: ball of type Ball and stand of type Stand
+b) add a private bricks field of type List <Brick>
+c) add public getters and setters for them
+
+Requirements:
+1. A private ball field of type Ball must be created in the Arkanoid class.
+2. In the Arkanoid class, a private stand field of type Stand must be created.
+3. In the Arkanoid class, a private bricks field of type List must be created.
+4. In the Arkanoid class, the correct getter for the ball field must be created.
+5. In the Arkanoid class, the correct getter for the stand field must be created.
+6. In the Arkanoid class, the correct getter for the bricks field must be created.
+7. In the Arkanoid class, the correct setter must be created for the ball field.
+8. In the Arkanoid class, the correct setter must be created for the stand field.
+9. In the Arkanoid class, the correct setter must be created for the bricks field.
